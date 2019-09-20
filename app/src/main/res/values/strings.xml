@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ایران سفر</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key" translatable="false">
+        AIzaSyCFPZilY803R1-CohqYDB4oO57F1ofNp8U
+    </string>
+</resources>
